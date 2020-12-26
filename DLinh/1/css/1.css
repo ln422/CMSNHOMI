@@ -1,0 +1,9 @@
+.type-1 .header .navbar {
+  background: transparent !important;
+}
+.type-1 .header .navbar .navbar-brand img {
+  margin-left: 10px;
+}
+.type-1 .header .navbar .navbar-nav {
+  margin-left: auto;
+}
